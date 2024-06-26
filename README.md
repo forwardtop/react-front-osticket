@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Overview
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created by Wang according to the client's request from Australia Integra PTY LTD
 
 ## Available Scripts
 
